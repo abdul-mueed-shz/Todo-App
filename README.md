@@ -1,6 +1,6 @@
-# todo
+# Todo
 
-A new Flutter project.
+A Flutter project to create a Todo app. SQFlite database engine is used to store persistent data.
 
 ## Getting Started
 
